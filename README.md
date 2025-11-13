@@ -1,16 +1,4 @@
- 
-
-
 > このページを開く [https://budou10-gh.github.io/thearcadetyping/](https://budou10-gh.github.io/thearcadetyping/)
-
-## 拡張機能として使用
-
-このリポジトリは、MakeCode で **拡張機能** として追加できます。
-
-* [https://arcade.makecode.com/](https://arcade.makecode.com/) を開く
-* **新しいプロジェクト** をクリックしてください
-* ギアボタンメニューの中にある **拡張機能** をクリックしてください
-* **https://github.com/budou10-gh/thearcadetyping** を検索してインポートします。
 
 ## このプロジェクトを編集します
 
